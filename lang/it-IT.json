@@ -266,7 +266,7 @@
     "status_hashing_piece": "Calcolo hash blocco {0} di {1}",
     "status_saving_torrent": "Salvataggio torrent",
     "add_to_session": "Aggiungi alla sessione",
-    "cancel": "Cancella",
+    "cancel": "Annulla",
     "restore_defaults": "Ripristina a default",
     "documentation": "Documentazione",
     "use_label_color_as_background_in_torrent_list": "Usa il colore dell'etichetta come sfondo nella lista dei torrent",
